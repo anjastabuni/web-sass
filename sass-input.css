@@ -1,0 +1,39 @@
+body {
+  font: 100% Helvetica, sans-serif;
+}
+
+.navbar {
+  background-color: #f7fafc;
+  color: #4a5568;
+  height: 50px;
+}
+
+.header {
+  background-color: #3c366b;
+  color: #f7fafc;
+  height: 150px;
+}
+
+.about {
+  background-color: #f7fafc;
+  color: #3c366b;
+  height: 100px;
+}
+
+.product {
+  background-color: #e74c3c;
+  color: #f7fafc;
+  height: 100px;
+}
+
+.contact {
+  background-color: #f7fafc;
+  color: #4a5568;
+  height: 100px;
+}
+
+.footer {
+  background-color: #4a5568;
+  color: #f7fafc;
+  height: 75px;
+}/*# sourceMappingURL=sass-input.css.map */
